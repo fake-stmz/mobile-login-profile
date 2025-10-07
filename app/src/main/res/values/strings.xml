@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">login-profile</string>
+
+    <!-- Вход -->
+    <string name="login_greeting">Вход в приложение</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_button_text">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+
+    <!-- Профиль -->
+    <string name="profile_header">Личный профиль</string>
+    <string name="user_name">Армянов Армян Армянович</string>
+    <string name="user_dob">Дата рождения: 11.09.2001</string>
+    <string name="user_sex">Пол: Мужской</string>
+    <string name="about_title">О себе</string>
+    <string name="about_text">Здесь будет информация о пользователе, его интересы, увлечения и краткое описание</string>
+    <string name="skills_title">Навыки</string>
+    <string name="skills_text">• Java и Kotlin разработка\n• Android разработка\n• UI/UX дизайн</string>
+    <string name="contacts_title">Контакты</string>
+    <string name="contacts_text">Email: example@gmail.com\nТелефон: +7 (777) 777-77-77\nГород: Чебоксары</string>
+    <string name="edit_button">Редактировать профиль</string>
 </resources>
